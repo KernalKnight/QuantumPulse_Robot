@@ -1,4 +1,4 @@
-🌌 QuantumPulse_Robot 🚀
+# 🌌 QuantumPulse_Robot 🚀
 The Next-Gen Trading Bot Harnessing Quantum-Inspired Algorithms
 
 🔮 Introduction
